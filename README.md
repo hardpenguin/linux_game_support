@@ -9,12 +9,9 @@ No matter what everyone else says, it should be **Ubuntu**. Why? Because:
 
 * It is the most popular distribution over there.
 * There is an actual company behind it - Canonical.
-* It is a distribution officially supported by Steam and GOG.
+* It is a distribution officially supported by Steam, GOG and Unity.
 
-The numbers behind the "most popular" claim can be found here:
-https://www.gamingonlinux.com/users/statistics
-http://store.steampowered.com/hwsurvey/?platform=linux
-https://stackoverflow.com/research/developer-survey-2016#technology-desktop-operating-system
+The numbers behind the "most popular" claim can be found [here][1]<sup>1</sup>, [here][2]<sup>2</sup> and [here][3]<sup>3</sup>.
 
 You should pick a latest LTS (long-term-support) version of Ubuntu - they are released every 2 years and supported for 5 years by Canonical.
 
@@ -28,8 +25,19 @@ Don't worry, your project compiled on Ubuntu will also work on other Linux distr
 
 However, if there is no other option than using 32 bit (because of a legacy codebase, middleware or engine limitations), your game will still work on Linux after doing some shenanigans.
 
+## Interesting links
+
+https://www.youtube.com/watch?v=WYdOQ_k6YvI
+
+## Sources
+
+[1]: https://www.gamingonlinux.com/users/statistics
+[2]: http://store.steampowered.com/hwsurvey/?platform=linux
+[3]: https://stackoverflow.com/research/developer-survey-2016#technology-desktop-operating-system
+
 #### TODO:
 
 * Sources the proper ^way^.
 * Explaining the situation with stores, Steam runtime.
 * Most popular engines.
+* Outsourcing
