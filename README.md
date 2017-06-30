@@ -27,8 +27,6 @@ However, if there is no other option than using 32 bit (because of a legacy code
 
 https://www.youtube.com/watch?v=WYdOQ_k6YvI
 
-
-[Sources]
 [1]: https://www.gamingonlinux.com/users/statistics
 [2]: http://store.steampowered.com/hwsurvey/?platform=linux
 [3]: https://stackoverflow.com/research/developer-survey-2016#technology-desktop-operating-system
